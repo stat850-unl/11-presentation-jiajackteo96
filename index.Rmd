@@ -9,8 +9,8 @@ knitr::opts_chunk$set(echo = TRUE)
 options(digits = 3)
 ```
 
-Here's the link to [beamerslide](https://github.com/stat850-unl/11-presentation-jiajackteo96/blob/master/beamerslide.pdf)
+[beamerslide](https://github.com/stat850-unl/11-presentation-jiajackteo96/blob/master/beamerslide.pdf)
 
-Here's the link to [ioslides](https://github.com/stat850-unl/11-presentation-jiajackteo96/blob/master/ioslides.html)
+[ioslides](https://github.com/stat850-unl/11-presentation-jiajackteo96/blob/master/ioslides.html)
 
-Here's the link to [CV](https://github.com/stat850-unl/11-presentation-jiajackteo96/blob/master/cv.pdf)
+[CV](https://github.com/stat850-unl/11-presentation-jiajackteo96/blob/master/cv.pdf)
